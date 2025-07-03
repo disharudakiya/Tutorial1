@@ -4,7 +4,7 @@
 
     {
 
-        class Program // define a class named Program
+        class Q5 // define a class named Program
 
         {
 
